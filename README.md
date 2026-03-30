@@ -1,10 +1,3 @@
-# 🚀 Premium GitHub Profile README for Umed Bhati
-
-Copy the content below into a new repository named **`u62635010-umed`** on GitHub and name the file **`README.md`**.
-
----
-
-```markdown
 # 👋 Hello, I'm Umed Bhati!
 ### Data Scientist | GenAI Strategist | Python Developer
 
@@ -70,7 +63,3 @@ End-to-end data pipeline using **Python**, **PostgreSQL**, and **Power BI** for 
 ### 📫 Connect with Me
 - LinkedIn: [in/umed-bhati-75ab11383](https://www.linkedin.com/in/umed-bhati-75ab11383/)
 - My Portfolio: *Coming Soon!*
-
----
-*Generated with ❤️ by Antigravity*
-```
