@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Umed Bhati!
-### Data Scientist | GenAI Strategist | Python Developer
+### Data Analyst | GenAI Strategist | Python Developer
 
 <p align="left">
  <a href="https://www.linkedin.com/in/umed-bhati-75ab11383/">
